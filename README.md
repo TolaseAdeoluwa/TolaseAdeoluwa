@@ -8,7 +8,7 @@
   - [Shark Attacks Project] 
   - [Bitcoin Historical Data Project] 
   - [Brazillian O-List E-Commerce Project] 
-  - [Cholera Outbreak Stockholm 1853 Project] 
+  - [Cholera Outbreak Stockholm 1853 Project] (https://github.com/TolaseAdeoluwa/Cholera-Outbreak-Stockholms-1853)
   - [Nigeria Center for Disease Control (NCDC) Covid-19 Project] 
   - [Telecom Customer Churn Project] 
   - [PhoneNow Call Centre Trend Project] 

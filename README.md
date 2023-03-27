@@ -3,19 +3,34 @@
 <h2>👨‍💻 Microsoft Excel, Power BI & Tableau Projects:</h2>
 
 - <b>Data Transformation & Exploration in Power BI</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [NYC Taxi Trip Project] 
+  - [U.S 2015 Flight Project] 
+  - [Shark Attacks Project] 
+  - [Bitcoin Historical Data Project] 
+  - [Brazillian O-List E-Commerce Project] 
+  - [Cholera Outbreak Stockholm 1853 Project] 
+  - [Nigeria Center for Disease Control (NCDC) Covid-19 Project] 
+  - [Telecom Customer Churn Project] 
+  - [PhoneNow Call Centre Trend Project] 
+  - [PhoneNow HR Project] 
+  - [PhoneNow Customer Retention Project]
+  
 - <b>Data Exploration in Tableau</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [World Health Organisation Covid-19 Project]
+  - [Covid-19 Impact on Airport Traffic Project]
+  - [Historical Stock Prices for 10 Blue Chips Project]
+  - [Mexican Restaurant Project]
+  - [World Energy Consumption Project]
+  
 - <b>Data Transformation in Microsoft Excel</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Adidas Sales Performance Project]
+  - [Revenue Project]
+  - [Sales Performance Bethel Peanut Snack Project]
   - 
 <h2> 🎗️  Certifications
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me:
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="TolaseAdeoluwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor

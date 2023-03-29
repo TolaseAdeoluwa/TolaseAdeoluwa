@@ -3,34 +3,32 @@
 <h2>👨‍💻 Microsoft Excel, Power BI & Tableau Projects:</h2>
 
 - <b>Data Transformation & Exploration in Power BI</b>
-  - [NYC Taxi Trip Project] 
-  - [U.S 2015 Flight Project] 
-  - [Shark Attacks Project] 
-  - [Bitcoin Historical Data Project] 
-  - [Brazillian O-List E-Commerce Project] 
+  - [NYC Taxi Trip Project] (https://github.com/TolaseAdeoluwa/NYC-Taxi-Trips)
+  - [U.S 2015 Flight Project] (https://github.com/TolaseAdeoluwa/U.S-2015-Flight-Analysis)
+  - [Shark Attacks Project] (https://github.com/TolaseAdeoluwa/Shark-Attacks-Analysis)
+  - [Bitcoin Historical Data Project] (https://github.com/TolaseAdeoluwa/Bitcoin-Historical-Data)
+  - [Brazillian O-List E-Commerce Project] (https://github.com/TolaseAdeoluwa/Brazillian-Olist-E-Commerce-Analysis)
   - [Cholera Outbreak Stockholm 1853 Project] (https://github.com/TolaseAdeoluwa/Cholera-Outbreak-Stockholms-1853)
-  - [Nigeria Center for Disease Control (NCDC) Covid-19 Project] 
-  - [Telecom Customer Churn Project] 
-  - [PhoneNow Call Centre Trend Project] 
-  - [PhoneNow HR Project] 
-  - [PhoneNow Customer Retention Project]
+  - [Nigeria Center for Disease Control (NCDC) Covid-19 Project] (https://github.com/TolaseAdeoluwa/NCDC-Covid-19-Data)
+  - [Telecom Customer Churn Project] (https://github.com/TolaseAdeoluwa/Telecom-Customer-Churn-Analysis)
   
 - <b>Data Exploration in Tableau</b>
-  - [World Health Organisation Covid-19 Project]
-  - [Covid-19 Impact on Airport Traffic Project]
-  - [Historical Stock Prices for 10 Blue Chips Project]
-  - [Mexican Restaurant Project]
-  - [World Energy Consumption Project]
+  - [World Health Organisation Covid-19 Project] (https://github.com/TolaseAdeoluwa/WHO-Covid-19-Update)
+  - [Covid-19 Impact on Airport Traffic Project] (https://github.com/TolaseAdeoluwa/Covid-19-Impact-on-Airport-Traffic)
+  - [Historical Stock Prices for 10 Blue Chips Project] (https://github.com/TolaseAdeoluwa/Historical-Stock-Prices)
+  - [Mexican Restaurant Project] (https://github.com/TolaseAdeoluwa/Mexican-Restaurant-Analysis)
+  - [World Energy Consumption Project] (https://github.com/TolaseAdeoluwa/World-Energy-Consumption-Analysis)
   
 - <b>Data Transformation in Microsoft Excel</b>
   - [Adidas Sales Performance Project]
   - [Revenue Project]
-  - [Sales Performance Bethel Peanut Snack Project]
+  - [Sales Performance Bethel Peanut Snack Project] (https://github.com/TolaseAdeoluwa/Bethel-Peanut-Snack-Sales-Performance)
   - 
 <h2> 🎗️  Certifications
 <h2> 🤳 Connect with me:
 
-[<img align="left" alt="TolaseAdeoluwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+  [<img align= "left" alt="TolaseAdeoluwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
